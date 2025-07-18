@@ -83,9 +83,6 @@ Predict whether the Dow Jones index will go **Up**, **Down**, or remain **Stable
 
 ```
 DowJonesPrediction/
-├── data/
-│   ├── Combined_News_DJIA.csv
-│   ├── formatted_stock_data.csv
 ├── stock.ipynb
 ├── README.md
 ```
